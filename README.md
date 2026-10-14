@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aadityabalraj7/aadityabalraj7/main/assets/profile-banner.jpg" width="100%" alt="Aaditya profile banner" />
+  <img src="https://raw.githubusercontent.com/aadityabalraj7/aadityabalraj7/main/assets/profile-banner-wide.jpg" width="100%" alt="Aaditya profile banner" />
 </p>
-
 <h1 align="center">Hi, I'm Aaditya Balraj 👋</h1>
 
 <p align="center">
