@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aadityabalraj7/aadityabalraj7/main/assets/profile-banner-wide.jpg" width="100%" alt="Aaditya profile banner" />
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="100%" height="260" alt="banner" />
 </p>
 <h1 align="center">Hi, I'm Aaditya Balraj 👋</h1>
 
